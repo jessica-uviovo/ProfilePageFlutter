@@ -1,6 +1,6 @@
 # profile_app
 
-A new Flutter application.
+A simple Flutter application displaying a profile page.
 
 ## Getting Started
 
